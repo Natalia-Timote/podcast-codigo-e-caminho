@@ -1,5 +1,5 @@
 ## 🎧 Código e Caminho
-# Conectando histórias, desafios e aprendizados no universo do front-end
+## Conectando histórias, desafios e aprendizados no universo do front-end
 
 O **podcast Código e Caminho** tem o objetivo de unir tecnologia, empatia e aprendizad. Ele foi criado durante o **bootcamp Universia – Fundamentos de IA Generativa**, em parceria com a **DIO**. Neste projeto, a **IA** foi utilizada como apoio na **criação de roteiro, estrutura narrativa e identidade visual**, resultando em um conteúdo autêntico, humano e inspirador para quem está iniciando no mundo do front-end.
 
@@ -20,12 +20,12 @@ O projeto teve foco na **criação de um produto original** apoiado por ferramen
 O episódio segue um formato leve e narrativo, com quatro blocos principais:
 
 1. [INTRODUÇÃO] – Apresentação e conexão com o tema do episódio;
-2. [HISTÓRIA] – Um relato pessoal sobre aprendizados e desafios no front-end;
-3. [DIÁLOGO SOBRE A HISTÓRIA] – Reflexões e mensagens empáticas sobre o processo de aprendizagem;
+2. [HISTÓRIA] – Um relato pessoal sobre desafios e aprendizados no front-end;
+3. [DIÁLOGO SOBRE A HISTÓRIA] – Reflexões e mensagens sobre o processo de aprendizagem;
 4. [FINALIZAÇÃO] – Encerramento com frase de efeito e convite à reflexão.
 
-🗣️ Apresentação: Inteligência artificial (Eleven Labs)
-🧠 Criação de roteiro e identidade: com apoio da IA Generativa (ChatGPT)
+🗣️ Apresentação: desenvolvida através do Eleven Labs
+🧠 Criação de roteiro e identidade: com apoio da IA Generativa ChatGPT
 
 ## 📚 Objetivos do Desafio
 
@@ -36,7 +36,18 @@ O episódio segue um formato leve e narrativo, com quatro blocos principais:
 * Publicar o **áudio final e o roteiro completo** em um repositório no GitHub.
 
 ## 🛠️ Tecnologias Utilizadas
-* IA Generativa (ChatGPT) – apoio na escrita e estrutura narrativa
-* Criador e editor de áudio (Eleven Labs e CapCut) – gravação e edição do episódio
-* Criador de imagem (Canva) - geração e edição de imagem
-* Git e GitHub – versionamento e publicação do projeto
+* IA Generativa (ChatGPT) – apoio na escrita, construção do roteiro e estrutura narrativa;
+* Criador e editor de áudio (ElevenLabs e CapCut) – gravação, narração e edição do episódio;
+* Criador de imagem (Canva) – geração e personalização da identidade visual do podcast.
+
+## 🖼️ Identidade visual
+
+A identidade visual do podcast foi pensada para transmitir proximidade, leveza e inspiração, com tons suaves e elementos que conectam tecnologia e humanidade.
+
+<img src="./image/código e caminho.png" alt="Capa do podcast Código e Caminho" width="600"/>
+
+## 🎧 Ouça o Podcast
+
+Mergulhe no primeiro episódio do Código e Caminho, onde exploramos histórias, aprendizados e inspirações do universo da tecnologia de forma leve e próxima. Aperte o play e acompanhe nossa jornada!
+
+[▶️ Ouvir o episódio](./audio/código%20e%20caminho%20-%20ep.%2001.mp4)
