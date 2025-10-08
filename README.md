@@ -1,7 +1,7 @@
 ## 🎧 Código e Caminho
 ## Conectando histórias, desafios e aprendizados no universo do front-end
 
-O **podcast Código e Caminho** tem o objetivo de unir tecnologia, empatia e aprendizad. Ele foi criado durante o **bootcamp Universia – Fundamentos de IA Generativa**, em parceria com a **DIO**. Neste projeto, a **IA** foi utilizada como apoio na **criação de roteiro, estrutura narrativa e identidade visual**, resultando em um conteúdo autêntico, humano e inspirador para quem está iniciando no mundo do front-end.
+O **podcast Código e Caminho** tem o objetivo de unir tecnologia, empatia e aprendizado. Ele foi criado durante o **bootcamp Universia – Fundamentos de IA Generativa**, em parceria com a **DIO**. Neste projeto, a **IA** foi utilizada como apoio na **criação de roteiro, estrutura narrativa e identidade visual**, resultando em um conteúdo autêntico, humano e inspirador para quem está iniciando no mundo do front-end.
 
 ![Static Badge](https://img.shields.io/badge/Conclu%C3%ADdo-label?style=for-the-badge&label=Status) ![Static Badge](https://img.shields.io/badge/Curso-DIO-%23e60000?style=for-the-badge)
 
