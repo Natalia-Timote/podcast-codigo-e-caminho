@@ -50,7 +50,4 @@ A identidade visual do podcast foi pensada para transmitir proximidade, leveza e
 
 Mergulhe no primeiro episódio do Código e Caminho, onde exploramos histórias, aprendizados e inspirações do universo da tecnologia de forma leve e próxima. Aperte o play e acompanhe nossa jornada!
 
-<audio controls style="width:100%; margin-top:10px;">
-  <source src="./audio/código%20e%20caminho%20-%20ep.%2001.mp4" type="video/mp4">
-  Seu navegador não suporta reprodução de áudio.
-</audio>
+[▶️ Ouvir o episódio](./audio/código%20e%20caminho%20-%20ep.%2001.mp4)
