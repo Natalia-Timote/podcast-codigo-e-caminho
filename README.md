@@ -25,6 +25,7 @@ O episódio segue um formato leve e narrativo, com quatro blocos principais:
 4. [FINALIZAÇÃO] – Encerramento com frase de efeito e convite à reflexão.
 
 🗣️ Apresentação: desenvolvida através do Eleven Labs
+
 🧠 Criação de roteiro e identidade: com apoio da IA Generativa ChatGPT
 
 ## 📚 Objetivos do Desafio
