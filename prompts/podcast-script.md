@@ -7,7 +7,7 @@ Criar um roteiro curto e humano para um podcast de tecnologia focado em **front-
 ChatGPT
 
 ## 💬 Prompt utilizado
-Você é um roteirista de podcast e vamos criar um roteiro de um podcast de tecnologia, focado em front-end, com o público alvo de iniciantes em front-end. O formato do roteiro deve ser [INTRODUÇÃO] [HISTÓRIA] [DIÁLOGO SOBRE A HISTÓRIA] [FINALIZAÇÃO]
+Você é um roteirista de podcast e vamos criar um roteiro de um podcast de tecnologia, focado em front-end, com o público alvo de iniciantes em front-end. O formato do roteiro deve ser [INTRODUÇÃO] [HISTÓRIA] [DIÁLOGO SOBRE A HISTÓRIA] [FINALIZAÇÃO].
 
 {REGRAS}
 
@@ -30,3 +30,4 @@ O podcast deve ser curto.
 Não use muitos termos técnicos.
 
 Não ultrapasse 5 minutos de duração.
+
